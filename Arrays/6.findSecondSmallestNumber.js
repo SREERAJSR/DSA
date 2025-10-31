@@ -14,7 +14,7 @@ function findSecondSmallestNumber(arr){
             secondSmallest=arr[i]
         }
     }
-    return secondSmallest;
+    return secondSmallest;  
 }
 
 console.log(findSecondSmallestNumber([1,2,-1,300,3]));
